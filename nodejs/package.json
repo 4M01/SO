@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/4M01/SO#readme",
   "devDependencies": {
+    "@playwright/test": "^1.22.2",
     "playwright-testing-library": "^4.2.1"
   }
 }

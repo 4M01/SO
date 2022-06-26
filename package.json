@@ -1,0 +1,27 @@
+{
+  "name": "so",
+  "version": "1.0.0",
+  "description": "Playground for questions",
+  "main": "Playwright-yopmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4M01/SO.git"
+  },
+  "keywords": [
+    "4m01",
+    "Testing",
+    "SO"
+  ],
+  "author": "Amol Chavan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4M01/SO/issues"
+  },
+  "homepage": "https://github.com/4M01/SO#readme",
+  "devDependencies": {
+    "playwright-testing-library": "^4.2.1"
+  }
+}
